@@ -1,2 +1,0 @@
-# Online-ARIMA
-ARIMA models are the main time-series long-term forecasting models in many practical applications. In time series trends or dependencies usually change. This requires frequent refitting of the model from scratch or performing additional training. However, fitting ARIMA models to large-scale data (e.g. hourly time series for 10 years) is time consuming. In this case, the online learning approach helps.
